@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Docker + Caffe + Digits!"
+date:   2016-10-19 21:27:11 -0400
+categories: jekyll update
+---
 # Docker + Caffe + Digits #
 ## Docker安装部署 ##
 docker官方的安装教程https://docs.docker.com/engine/installation/
